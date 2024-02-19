@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+}
+
+#wrapper{
+    background-color: white;
+    padding: 20px;
+    margin: 10%;
+    border-radius: 5px;
+
+    
+}
+
+#wrapper div,h2{
+    justify-content: center;
+    display: flex;
+}
+
+.inputdiv{
+    margin: 25px;
+}
+
+#input{
+    color: grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button{
+    background-color: grey;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: bolder;
+}
+
+#result{
+    padding: 10px;
+    margin: 25px;
+    color: grey;
+    font-size: xx-large;
+}
